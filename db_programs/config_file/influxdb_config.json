@@ -1,0 +1,9 @@
+{
+    "InfluxDB":{
+        "host":"",
+        "port":,
+        "username":"",
+        "password":"",
+        "database":""
+    }
+}
