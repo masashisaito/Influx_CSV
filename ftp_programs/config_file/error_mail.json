@@ -1,0 +1,13 @@
+{
+    "SMTP":{
+        "from_addr":"",
+        "to_addrs":["", "", "", ""],
+        "server_domain":"", 
+        "server_port":,
+        "subject":"プログラム、サーバーエラー通知",
+        "message":"\n上記のサーバー接続でエラーが発生しています。\n確認あるいは管理者への連絡をお願いします。",
+        "accout":"",
+        "password":""
+
+    }
+}
